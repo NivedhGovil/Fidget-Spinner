@@ -3,6 +3,8 @@
 This is the guide for a demon slayer fidget spinner I made. (It was also the first fidget spinner I ever designed!)
 
 **CAD Software: Onshape**
+**Item: Fidget Spinner**
+*3D printed*
 
 
 # Features of Demon Slayer incorporated
