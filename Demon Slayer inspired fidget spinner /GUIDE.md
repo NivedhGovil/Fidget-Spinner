@@ -22,13 +22,12 @@ Lapse video links:
 # Images
 Navigate to the ```Images``` folder. All the images of my build are there. 
 
-# Video
-Navigate to the ```Video``` folder. A video of the spinner in work is there. 
+
 
 # CAD Files
 
-- Go to (https://makerworld.com/en/models/3596035-demon-slayer-inspired-fidget-spinner?from=search)
-- Download the ```.3mf``` , ```.stl``` or ```.step``` files in the repo in the ```assets``` folder. 
+- Go to https://makerworld.com/en/models/3596035-demon-slayer-inspired-fidget-spinner?from=search
+- Download the ```.3mf``` files in the ```assets``` folder. 
 
 
 
