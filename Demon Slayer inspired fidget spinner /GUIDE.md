@@ -27,7 +27,7 @@ Navigate to the ```Video``` folder. A video of the spinner in work is there.
 
 # CAD Files
 
-- Go to [blank](example.com)
+- Go to (https://makerworld.com/en/models/3596035-demon-slayer-inspired-fidget-spinner?from=search)
 - Download the ```.3mf``` , ```.stl``` or ```.step``` files in the repo in the ```assets``` folder. 
 
 
